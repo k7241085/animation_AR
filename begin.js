@@ -1,0 +1,1 @@
+document.querySelector('#fading-cube').emit('fade');
